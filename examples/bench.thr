@@ -1,0 +1,8 @@
+; Bench frame and mounting bolts
+; Format: <designation> [grade=] [material=] [depth=] [fit=] [load=]
+M8x1.25      grade=8.8   material=steel      depth=20      fit=medium  load=9kN
+M6           grade=8.8   material=aluminium  depth=10      fit=fine    load=3kN
+M10          grade=10.9  material=cast-iron  depth=16      load=15kN
+1/4-20 UNC   grade=SAE5  material=steel      depth=0.75in  load=1500lbf
+#10-32 UNF   grade=SAE2  material=brass      depth=0.25in  load=200lbf
+M5x0.8       material=plastic depth=12
